@@ -1,16 +1,30 @@
-## Hi there 👋
+# Olá, eu sou o Diogo Felipe! 👋
 
-<!--
-**dgcavalcante/dgcavalcante** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Sobre Mim
+Eu sou um desenvolvedor focado em Backend. 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 Como me encontrar: **https://www.linkedin.com/in/diogo-felipe-626688268?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app**
+
+---
+
+### 🛠 Tecnologias e Ferramentas
+Aqui estão algumas das tecnologias com as quais trabalho no dia a dia:
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,java,py,spring" />
+</p>
+
+---
+
+### 📊 Estatísticas do GitHub
+Aqui você pode ver um pouco do meu impacto no ecossistema:
+
+![Status do GitHub](https://github-readme-stats.vercel.app/api?username=[SEU-USUARIO]&show_icons=true&theme=radical)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=[SEU-USUARIO]&layout=compact&theme=radical)
+
+---
+
+### ✍️ Blog e Posts (Opcional)
+- [Título do Post 1](link-do-post)
+- [Título do Post 2](link-do-post)
