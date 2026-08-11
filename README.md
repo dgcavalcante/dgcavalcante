@@ -1,17 +1,34 @@
 # Olá, eu sou o Diogo Felipe! 👋
 
 ### 🚀 Sobre Mim
-Eu sou um desenvolvedor focado em Backend. 
+Eu sou estudante de Análise e Desenvolvimento de Sistemas no **C.E.S.A.R** **School**. Atualmente Foco no desenvolvimento de aplicações web. 
 
 ---
 
 ### 🛠 Tecnologias e Ferramentas
+
 Aqui estão algumas das tecnologias com as quais trabalho no dia a dia:
 
+#### 💻 Linguagens
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,java,py,spring" />
+  <img src="https://skillicons.dev/icons?i=c,java,py" />
 </p>
 
+#### ⚡ Frameworks
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=spring" />
+</p>
+
+#### 🗄️ Bancos de Dados
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres" />
+</p>
+
+#### 🧰 Ferramentas
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,docker" />
+  <img src="https://img.shields.io/badge/Bruno-FF6C37?style=for-the-badge&logo=bruno&logoColor=white" height="40" />
+</p>
 ---
 
 ### 🌐 Conecte-se comigo
